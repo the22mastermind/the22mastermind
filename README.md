@@ -9,7 +9,7 @@ I'm a full-stack software engineer with a penchant for UI/UX design. I'm passion
 
 - 👯 I'm looking to collaborate on products focusing on health, education, hospitality and finance industries especially for the African context.
 
-- ⚡ Fun fact: One thing on my bucket list is Skydiving. Okay, another thing is scuba diving. Wait, there's also swimming in the cave pools in Santorini, Greece and staying at kudadoo maldives private island ...:sweat_smile: the list is quite long.
+- ⚡ Fun fact: One thing on my bucket list is Skydiving. Okay, another thing is scuba diving. Wait, there's also swimming in the cave pools in Santorini, Greece and staying at kudadoo maldives private island ...:sweat_smile: the list is quite long, let me stop day dreaming, this code will not write itself.
 
 #### Find me around the web :earth_africa:
 - 📫 How to reach me:
