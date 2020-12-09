@@ -13,7 +13,5 @@ I'm a full-stack software engineer with a penchant for UI/UX design. I'm passion
 
 #### Find me around the web :earth_africa:
 
-- Twitter: [DM me](https://twitter.com/rw_billionaire)
-- Email: bertrandmasabo22@gmail.com
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/bertrand-masabo-621ab7b0/)
 - Portfolio: Website coming soon!
