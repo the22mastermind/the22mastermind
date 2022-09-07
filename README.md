@@ -3,7 +3,7 @@
 #### Hi there 👋, I'm Bertrand Masabo,
 I'm a full-stack software engineer with a penchant for UI/UX design. I'm passionate :heart: about technology and building products that make people's lives better. Some technologies I enjoy working with include JavaScript, NodeJS, React-Native, REST APIs, Django, Python and Figma to name a few.
 
-- 🔭 I'm currently working on 2 mobile applications using React-Native for the front-end and Express for the backend.
+- 🔭 I'm currently working on a Blockchain application using As, NEAR, and React.
 
 - 🌱 I'm currently learning GraphQL and I will build something with it very soon.
 
